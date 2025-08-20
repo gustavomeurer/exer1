@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(231, 245, 111);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(252, 5, 5);
+}
+.titulo-linguagem{
+    color: rgb(52, 81, 245);
+}
+.titulo-html{
+    color: rgb(228, 94, 16);
+}
+
+.sublinhado{
+    text-decoration: underline;
+}
+
+#exclusivo{
+    background-color: rgb(253, 0, 0);
+}
